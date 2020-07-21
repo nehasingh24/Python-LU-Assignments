@@ -1,0 +1,34 @@
+Que 1:What is Python? What are the ways to install python in PC?
+Ans:
+>Python is a programming language which was developed by Guido Van Rossum in 1991, marketed by Google. It has become one of the most popular programming languages in the world near about 2006.
+>Python has easy syntax,less coding and huge amount open-source additional of libraries and it is utilized by every major technology cmpanies.
+There are many ways to install python in PC:
+1. Go and download the installation package from Python.org
+2. Downloading IDE based python which has inbuilt libraries .In Anaconda there is Panda, Numpy, Django, Jupyter, Tensorflow, Conda, Pytorch,Scipy,Spyder,etc.
+
+
+Que 2: What are the Code Environments? and its Types.
+Ans:
+>Code environment is a platform that consists of equipment that can be used for scripting codes, execution, developing, or testing the software.
+>In simple words its a place where we can write and execute a code and check the output.
+
+There are 3 types of code environments:
+1)Text Editors:
+>They consist of general editors for any text file.
+>One can work with a variety of file types.
+>It can be customized with plug-ins and Ad-ons
+e.g Visual Studio Code,Atom,etc.
+
+2)Full IDEs (Integrated Development Environment):
+>They are development Environments designed specifically for Python.
+>It consists of larger programs and only committed editions are free.
+>It consists of lots of extra functionality. 
+>All the essential tools are installed for automating the programmer's tasks like file management, selections, debug, integrations, and deployments.
+e.g PyCharm, Spyder,etc.
+
+3)Notebooks Environments:
+>Notebook environments are great for learning.
+>One can see input and output next to each other.
+>They support inline markdown notes, visualizations, videos and more. 
+>We can download files as .py .
+>for e.g Jupyter Notebook
